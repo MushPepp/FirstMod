@@ -1,0 +1,21 @@
+{
+  "values": [
+    "minecraft:diamond_block",
+    "minecraft:diamond_ore",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:emerald_ore",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:emerald_block",
+    "minecraft:gold_block",
+    "minecraft:raw_gold_block",
+    "minecraft:gold_ore",
+    "minecraft:deepslate_gold_ore",
+    "minecraft:redstone_ore",
+    "minecraft:deepslate_redstone_ore",
+    "tutorialmod:zircon_ore",
+    "tutorialmod:deepslate_zircon_ore",
+    "tutorialmod:endstone_zircon_ore",
+    "tutorialmod:netherrack_zircon_ore",
+    "tutorialmod:zircon_block"
+  ]
+}
